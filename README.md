@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **php,js**
 
-- 🤝 I’m looking for help with **Professional Web Designer, Developer & Wordpress expert. I specialize in building modern, responsive, and user-friendly websites with clean code.**
+- 🤝 I’m looking for help with **Professional Web Designer, Developer & Wordpress .**
 
-- 💬 Ask me about **Web Designer, Developer & Wordpress**
+- 💬 Ask me about **Web Designer, Developer & Wordpress  building modern, responsive, and user-friendly websites **
 
 - 📫 How to reach me **imran.h27.bd@gmail.com**
 
