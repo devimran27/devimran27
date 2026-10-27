@@ -1,4 +1,4 @@
-<a href="https://ibb.co.com/bgnddZ1T"><img src="https://i.ibb.co.com/3yHhhq12/imgupscaler-enhanced.jpg" alt="web designer,wordpress developer protfolio" border="0"></a>
+<a href="https://ibb.co.com/Xrw3SK5m"><img src="https://i.ibb.co.com/S4LdRMmq/Neon-Blue-Web-Developer-Portfolio-Banner.png" alt="Web Designer-Developer-WprdPress-Expert-Portfolio-Banner" border="0"></a>
 <h3 align="center">A passionate Professional Web Developer & Wordpress Expert. I specialize in building modern, responsive, and user-friendly websites with clean code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devimran27&label=Profile%20views&color=0e75b6&style=flat" alt="devimran27" /> </p>
