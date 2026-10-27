@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Design, Development & Wordpress Businesses and Creators Buliding Stunning,Functional websites.** 
 
-- 📫 How to reach me **imran.h27.bd@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/imrangmh/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
